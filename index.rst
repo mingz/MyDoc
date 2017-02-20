@@ -6,9 +6,12 @@
 Welcome to HelloSphinx's documentation!
 =======================================
 
-Hello, this is the first test.
+.. toctree::
+   :maxdepth: 2
 
-
+   intro
+   tutorial
+   reStructuredText
 
 Indices and tables
 ==================
